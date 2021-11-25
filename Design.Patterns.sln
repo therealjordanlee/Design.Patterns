@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer.Pattern", "Observer.Pattern", "{2814E0CD-402A-4374-8F0B-1B13533584FA}"
+	ProjectSection(SolutionItems) = preProject
+		src\Observer\README.md = src\Observer\README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Pull", "src\Observer\Observer.Pull\Observer.Pull.csproj", "{B5F4BAE2-97CA-4E93-893C-F1BCDDDBB02C}"
 EndProject
