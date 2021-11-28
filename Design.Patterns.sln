@@ -17,10 +17,13 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Push.Console", "src\Observer\Observer.Push.Console\Observer.Push.Console.csproj", "{7A7C030E-E838-4275-9017-58D2EA2B6304}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy.Pattern", "Strategy.Pattern", "{4EAA571B-5E01-44A1-93A9-6858A61F300E}"
+	ProjectSection(SolutionItems) = preProject
+		src\Strategy\README.md = src\Strategy\README.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "src\Strategy\Strategy\Strategy.csproj", "{5EBBF8F8-E1DA-447B-AB7E-0B985078866D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Console", "src\Strategy\Strategy.Console\Strategy.Console.csproj", "{4439FDC2-1D4A-491C-BC46-36D96E55E3CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy.Console", "src\Strategy\Strategy.Console\Strategy.Console.csproj", "{4439FDC2-1D4A-491C-BC46-36D96E55E3CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
