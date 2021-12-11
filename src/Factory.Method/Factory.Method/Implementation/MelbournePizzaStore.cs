@@ -1,6 +1,6 @@
-﻿using Factory.Method.Pattern.Pattern;
+﻿using Factory.Method.Pattern;
 
-namespace Factory.Method.Pattern.Implementation
+namespace Factory.Method.Implementation
 {
     public class MelbournePizzaStore : PizzaCreator
     {
