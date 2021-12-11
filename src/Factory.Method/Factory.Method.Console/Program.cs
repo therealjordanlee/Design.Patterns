@@ -1,5 +1,5 @@
-﻿using Factory.Method.Pattern.Implementation;
-using Factory.Method.Pattern.Pattern;
+﻿using Factory.Method.Implementation;
+using Factory.Method.Pattern;
 
 var melbourneStore = new MelbournePizzaStore();
 melbourneStore.OrderPizza(PizzaType.Cheese);

@@ -1,4 +1,4 @@
-﻿namespace Factory.Method.Pattern.Pattern
+﻿namespace Factory.Method.Pattern
 {
     public abstract class PizzaProduct
     {
