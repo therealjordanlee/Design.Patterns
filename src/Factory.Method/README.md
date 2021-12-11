@@ -21,4 +21,4 @@
 - Each Client contains (is composed of) a Factory class.
 
 
-[pattern]: https://github.com/therealjordanlee/Design.Patterns/raw/master/src/Factory.Method.Pattern/factoryMethodPattern.png "Factory Method Pattern"
+[pattern]: https://github.com/therealjordanlee/Design.Patterns/raw/master/src/Factory.Method/factoryMethodPattern.png "Factory Method Pattern"
