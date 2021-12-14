@@ -20,4 +20,4 @@
 - Each Client contains (is composed of) an implementation of the Abstract Factory class.
 
 
-[pattern]: https://github.com/therealjordanlee/Design.Patterns/raw/master/src/Abstract.Factory/abstractFactoryPattern.png "Factory Method Pattern"
+[pattern]: https://github.com/therealjordanlee/Design.Patterns/raw/master/src/Abstract.Factory/abstractFactoryPattern.png "Abstract Factory Pattern"
