@@ -5,6 +5,9 @@
 - Multiple decorators can wrap a component.
 - Is typically transparent to clients using the component (unless the client relies on a component's concrete type).
 
+# Intent
+- Doesn't alter the interface, but adds additional functionality/responsibilities.
+
 # Design Principles
 ## Identify the aspects of your application that vary and separate them from what stays the same
 - The behaviour you are trying to extend to an existing class.
