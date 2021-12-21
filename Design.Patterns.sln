@@ -98,10 +98,13 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade.Console", "src\Facade\Facade.Console\Facade.Console.csproj", "{8A2FD571-B6E6-4517-B2AE-CF960B2914D2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template.Method.Pattern", "Template.Method.Pattern", "{25C8567A-8876-494E-AA30-7AD65C34B7BF}"
+	ProjectSection(SolutionItems) = preProject
+		src\Template.Method\README.md = src\Template.Method\README.md
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Method", "src\Template.Method\Template.Method\Template.Method.csproj", "{7484EA66-75F9-4C5D-BC1D-DB8BAF5B0A36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.Method", "src\Template.Method\Template.Method\Template.Method.csproj", "{7484EA66-75F9-4C5D-BC1D-DB8BAF5B0A36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Method.Console", "src\Template.Method\Template.Method.Console\Template.Method.Console.csproj", "{D4A8F1C5-A75B-4607-90CA-9C9051446FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template.Method.Console", "src\Template.Method\Template.Method.Console\Template.Method.Console.csproj", "{D4A8F1C5-A75B-4607-90CA-9C9051446FD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
