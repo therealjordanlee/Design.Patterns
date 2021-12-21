@@ -1,7 +1,9 @@
 ![alt text][pattern]
 
-- Defines family of algorithms, encapsulates each one, and makes them interchangeable.
 - Algorithms may vary independently from clients using them.
+
+# Intent
+- Defines family of algorithms, encapsulates each one, and makes them interchangeable.
 
 # Design Principles
 ## Identify the aspects of your application that vary and separate them from what stays the same
